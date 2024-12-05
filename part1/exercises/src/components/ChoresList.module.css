@@ -1,7 +1,9 @@
 .choresText {
-   color: black;
+   color: rgb(192, 98, 10);
+   text-emphasis: true;
 }
 
 .choresHeading {
-   color: black;
+   color: rgb(8, 70, 202);
+   text-decoration: underline;
 }
